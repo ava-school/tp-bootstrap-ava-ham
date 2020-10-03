@@ -1,0 +1,25 @@
+/*
+# Custom Styles sheet
+# @Author = AVA
+# @Summary = TP Bootstrap
+*/
+
+body {
+    padding-top: 56px;
+}
+  
+.carousel-item {
+    height: 65vh;
+    min-height: 300px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.nav-title {
+    color: rgb(238, 238, 238);
+    display: inline;
+    vertical-align: middle;
+}
